@@ -1,0 +1,12 @@
+.git
+.gitignore
+
+Dockerfile
+.dockerignore
+/ads-cache
+
+go.mod
+go.sum
+
+.cache/
+/vendor/
