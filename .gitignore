@@ -1,0 +1,17 @@
+/ads-cache
+/.vscode
+/dist
+/bin
+/out
+
+/vendor/
+
+*_test
+testdata/
+
+*.exe
+
+.DS_Store
+.env
+.idea
+*.log
