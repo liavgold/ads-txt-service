@@ -13,7 +13,7 @@ import (
 	"ads-txt-service/internal/config"
 	"ads-txt-service/internal/fetcher"
 	"ads-txt-service/internal/logger"
-	"ads-txt-service/internal/middleware" // Import the middleware package
+	"ads-txt-service/internal/middleware" 
 	"ads-txt-service/internal/models"
 	"ads-txt-service/internal/parser"
 
